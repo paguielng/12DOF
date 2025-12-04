@@ -46,6 +46,12 @@
 	
 [https://low-orbit.net/freenove-robot-dog-kit-for-raspberry-pi](https://low-orbit.net/freenove-robot-dog-kit-for-raspberry-pi)
 
+* **3D Models**
+  
+	3d models parts downloaded from GrabCad.
+  
+[https://grabcad.com/library/freenove-12dof-tiny-robotdog-quadruped-laser-cutted-1](https://grabcad.com/library/freenove-12dof-tiny-robotdog-quadruped-laser-cutted-1)
+
 ### Support
 
 Freenove provides free and quick customer support. Including but not limited to:
